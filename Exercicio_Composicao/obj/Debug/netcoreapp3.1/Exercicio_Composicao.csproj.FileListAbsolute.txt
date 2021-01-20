@@ -1,0 +1,13 @@
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\bin\Debug\netcoreapp3.1\Exercicio_Composicao.exe
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\bin\Debug\netcoreapp3.1\Exercicio_Composicao.deps.json
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\bin\Debug\netcoreapp3.1\Exercicio_Composicao.runtimeconfig.json
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\bin\Debug\netcoreapp3.1\Exercicio_Composicao.runtimeconfig.dev.json
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\bin\Debug\netcoreapp3.1\Exercicio_Composicao.dll
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\bin\Debug\netcoreapp3.1\Exercicio_Composicao.pdb
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\netcoreapp3.1\Exercicio_Composicao.csprojAssemblyReference.cache
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\netcoreapp3.1\Exercicio_Composicao.AssemblyInfoInputs.cache
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\netcoreapp3.1\Exercicio_Composicao.AssemblyInfo.cs
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\netcoreapp3.1\Exercicio_Composicao.csproj.CoreCompileInputs.cache
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\netcoreapp3.1\Exercicio_Composicao.dll
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\netcoreapp3.1\Exercicio_Composicao.pdb
+C:\Users\prado\Documents\Udemy\C#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\netcoreapp3.1\Exercicio_Composicao.genruntimeconfig.cache
